@@ -8,6 +8,8 @@ public class GitTest {
 
         System.out.println("hello Git tow");
 
+        System.out.println("hot-fix");
+
     }
 
 }
